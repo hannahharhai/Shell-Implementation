@@ -1,3 +1,3 @@
 # Shell-Implementation
 
-Shell implementation for systems software class. Can take linux commands and run plugins - restrictions on amount and length of commands/plugins.
+A shell implementation I created for a systems software class during undergrad. Can take linux commands and run plugins - restrictions on amount and length of commands/plugins.
